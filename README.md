@@ -1,4 +1,4 @@
-# firebase_proje
+# Flutter CHAT APPLİCATİON
 
 A new Flutter project.
 
